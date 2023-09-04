@@ -1,5 +1,5 @@
 import React from 'react';
-import companyLogo from 'amazon-music\src\logo.png';
+import companyLogo from 'amazon-music\src\logo.svg';
 
 
 function Navbar() {
